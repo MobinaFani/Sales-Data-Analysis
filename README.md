@@ -61,7 +61,7 @@ The interactive dashboard includes:
 * Year and Region filters
 * Interactive cross-filtering
 
-![Sales Performance Dashboard](images/dashboard.png)
+![Sales Performance Dashboard](Images/dashboardpic.JPG)
 
 ## 📁 Project Structure
 
@@ -82,7 +82,7 @@ Sales-Data-Analysis/
 │   └── Sales_Dashboard.pbix
 │
 └── Images/
-    └── dashboard.png
+    └── dashboardpic.JPG
 ```
 
 ## 🎯 Project Goal
