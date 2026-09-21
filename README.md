@@ -71,7 +71,7 @@ Sales-Data-Analysis/
 ├── README.md
 │
 ├── data/
-│   └── Sample-Superstore.csv
+│   └── Superstore.csv
 │
 ├── sql/
 │   ├── 01_data_exploration.sql
@@ -81,7 +81,7 @@ Sales-Data-Analysis/
 ├── dashboard/
 │   └── Sales_Dashboard.pbix
 │
-└── images/
+└── Images/
     └── dashboard.png
 ```
 
