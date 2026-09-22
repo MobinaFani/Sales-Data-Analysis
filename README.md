@@ -17,6 +17,10 @@ The project includes both **SQL analysis** and an interactive **Power BI dashboa
 * Microsoft Excel
 * Git & GitHub
 
+## 📌 Dataset
+
+This project uses the [Sample Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) from Kaggle, containing approximately 9,800 sales transactions.
+
 ## 📊 Analysis Performed
 
 ### Sales Analysis
